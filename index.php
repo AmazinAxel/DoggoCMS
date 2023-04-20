@@ -66,14 +66,14 @@ http_response_code(501); exit; }
 				}, 2000);
 				setTimeout(function() {
 				    document.getElementById('savedatgordpost').innerHTML = 'oe yeah btw u can click me if u wan see the new post';
-				    document.getElementById('savedatgordpost').href = 'https://eaglelistic.com/blog';
+				    document.getElementById('savedatgordpost').href = '../';
 				    document.getElementById('savedatgordpost').setAttribute('onclick', '');
 				}, 3500); 
 
 		    }
 		    
 		    async function savedatupload() {
-				document.getElementById('datUploadBtn').innerHTML = 'sending da derpy doggos to seattle...'; // Saving text
+				document.getElementById('datUploadBtn').innerHTML = 'sending da derpy doggos to Seattle...'; // Saving text
 				let formData = new FormData();
 				formData.append("doggofile", fileupload.files[0]);
 				formData.append("doggoname", document.getElementById('doggoname').value);
@@ -101,7 +101,7 @@ http_response_code(501); exit; }
 		
 		<ul>
             <li><a href="#" style="font-weight: bold">DoggoCMS</a></li>
-            <li><a href="https://eaglelistic.com">View Blebsite</a></li>
+            <li><a href="../">View Blebsite</a></li>
 			<li class="right"><a href="?logout">Logout</a></li>
         </ul>
 		
