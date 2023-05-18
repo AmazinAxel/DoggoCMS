@@ -6,3 +6,5 @@ This is a simple CMS designed for a static site. You can easily upload these 2 f
 ok so dis pwoject pretty much allows u to lik to mak blog poetss and add soem of dat media to a swerver easeily. iet even has a pwre-maed logien fiel for da pups dat done't knoe hoew to secuere dere swerver. i woeudl wecommend dat u chaeng da password foerm its defaulet oen. ok dat it bye
 
 also i meight include soem updats in da futeure and add soem neaw feaures but idk
+
+![image](https://github.com/AmazinAxel/DoggoCMS/assets/131297785/6dc50e35-dbe2-4c46-982c-aa330b98d3b7)
