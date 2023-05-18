@@ -7,4 +7,4 @@ ok so dis pwoject pretty much allows u to lik to mak blog poetss and add soem of
 
 also i meight include soem updats in da futeure and add soem neaw feaures but idk
 
-![image](https://github.com/AmazinAxel/DoggoCMS/assets/131297785/6dc50e35-dbe2-4c46-982c-aa330b98d3b7)
+<p align="center"><img src="https://user-images.githubusercontent.com/131297785/239331340-6dc50e35-dbe2-4c46-982c-aa330b98d3b7.png"></p>
